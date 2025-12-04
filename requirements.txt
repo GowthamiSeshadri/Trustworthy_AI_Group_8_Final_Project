@@ -1,0 +1,12 @@
+streamlit
+pandas
+numpy
+scikit-learn
+joblib
+sentence-transformers
+# For PDF parsing (imported as 'fitz')
+PyMuPDF
+# For DOCX parsing
+docx2txt
+# For Fairness Audit (Disparate Impact Ratio, Equal Opportunity Difference)
+aif360
